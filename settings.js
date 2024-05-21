@@ -26,8 +26,8 @@
 //re-upload? recode? copy code? give credit ya :)
 //Instagram: unicorn_xeon13
 //Telegram: t.me/ahmmitech
-//GitHub: @maisaawe
-//WhatsApp: +254727204794
+//GitHub: salmanytofficial
+//WhatsApp: +923184070915
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 //   * Created By Github: DGXeon.
 //   * Credit To Xeon
@@ -41,9 +41,9 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //owmner v card
 //________________________________________________________________________________________________________
-global.ytname = process.env.YT_NAME || "YT: maissawe" //ur yt chanel name
+global.ytname = process.env.YT_NAME || "YT: salmanytofficial" //ur yt chanel name
 //________________________________________________________________________________________________________
-global.socialm = process.env.MEDIA || "GitHub: maissawe" //ur github or insta name
+global.socialm = process.env.MEDIA || "GitHub: salmanytofficial" //ur github or insta name
 //________________________________________________________________________________________________________
 global.location = process.env.GL_INFO || "Africa, nairobi" //ur location
 //________________________________________________________________________________________________________
@@ -74,7 +74,7 @@ global.creator = process.env.GL_DEVS || "923184070915@s.whatsapp.net"
 //________________________________________________________________________________________________________
 global.xprefix = process.env.PREFIX || '.'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["254727204794"] // Premium User
+global.premium = process.env.GL_VIP || ["923184070915@"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
